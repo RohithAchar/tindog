@@ -72,20 +72,20 @@ h3{
   text-align: center;
   background-color: #ef8172;
   color:#fff;
-  height:650px;
+  height: 650px;
 }
 .carousel-item{
-  padding: 7% 15%;
+  padding:7% 15%;
 }
 h2{
   font-family: 'Montserrat';
   font-weight: 700;
-  font-size: 2.5rem;
+  font-size: 2rem;
   /* line-height: 1.5; */
 }
 .testimonial-image{
   border-radius: 100%;
-  margin-top: 5%;
+  margin-top: 50px;
   margin-right: 1rem;
 }
 
@@ -99,4 +99,8 @@ h2{
 .press-images{
   width:15%;
   margin:20px 50px 20px;
+}
+
+.test-buttons{
+  margin:325px 20px;
 }
